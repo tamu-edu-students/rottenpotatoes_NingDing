@@ -1,1 +1,1 @@
-https://rottenpotatoes-ningding.herokuapp.com/
+https://rottenpotatoes-ningding.herokuapp.com/movies
